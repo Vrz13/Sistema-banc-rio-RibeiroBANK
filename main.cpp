@@ -1,3 +1,10 @@
+/*
+  INF101 - Programacao de Computadores I
+  Trabalho: Sistema de Registro e Gestao de Contas Bancarias
+  Aluno: Vinicius dos Passos Ribeiro 
+  Matricula: 28770
+*/
+
 #include <iostream>
 #include <string>
 #include <limits> // Necessario para limpar o buffer do cin com numeric_limits
